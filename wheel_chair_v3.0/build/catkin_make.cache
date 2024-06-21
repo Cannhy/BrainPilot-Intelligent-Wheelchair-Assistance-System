@@ -1,0 +1,2 @@
+android:imu:main:openmv:rplidar_ros:turtle:yahboomcar_laser
+-DCATKIN_DEVEL_PREFIX=/home/andonga/wheel_chair/devel -DCMAKE_INSTALL_PREFIX=/home/andonga/wheel_chair/install -G Unix Makefiles

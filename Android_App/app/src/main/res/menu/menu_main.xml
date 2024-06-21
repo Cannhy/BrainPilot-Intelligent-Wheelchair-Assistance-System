@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.controller.MainActivity">
+    <item
+        android:id="@+id/action_connect"
+        android:orderInCategory="100"
+        android:title="连接设备"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_disconnect"
+        android:orderInCategory="100"
+        android:title="断开连接"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_ip_edit"
+        android:orderInCategory="100"
+        android:title="手动IP"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_ip_reset"
+        android:orderInCategory="100"
+        android:title="重置IP"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:title="状态查询"
+        app:showAsAction="never" />
+</menu>
