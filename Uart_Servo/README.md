@@ -1,2 +1,0 @@
-# FashionStar_Uart_Servo_Python SDK
-FashionStar串行总线舵机Python SDK

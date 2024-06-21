@@ -1,8 +1,0 @@
-prefix=/home/andonga/wheel_chair/install
-
-Name: openmv
-Description: Description of openmv
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
