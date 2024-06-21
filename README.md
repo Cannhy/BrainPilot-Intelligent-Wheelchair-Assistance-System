@@ -4,11 +4,7 @@
 
 ![硬件结构](pictures/head_front.GIF)
 
-![硬件结构](pictures/head_back.GIF)
-
 ![硬件结构](pictures/head_left.GIF)
-
-![硬件结构](pictures/head_right.GIF)
 
 ## 项目概述
 
