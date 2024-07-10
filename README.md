@@ -1,6 +1,5 @@
 # 2024软件工程——轮椅嵌入队
 
-展示视频
 
 ![硬件结构](pictures/head_front.GIF)
 
